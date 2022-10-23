@@ -1,1 +1,3 @@
 Wymagania
+Logowanie do aplikacji google
+Logowanie do aplikacji Microsoft
