@@ -5,3 +5,6 @@ Aplikacja mówi mi nie rób nic, ale zaloguj się używając konta google.
 Aplikacja mówi mi nie rób nic, ale zaloguj się używając konta Microsoft.
 
 
+Aplikacja mówi mi nie rób nic, ale przypominaj mi hasło
+
+
