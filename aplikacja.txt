@@ -1,1 +1,3 @@
 Aplikacja mówi mi nie rób nic
+
+Aplikacja mówi mi nie rób nic, ale zaloguj się używając konta Microsoft.
